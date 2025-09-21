@@ -79,3 +79,4 @@ const FORMS = {
     cycles: 1,
   },
 };
+export default App;
