@@ -9,7 +9,7 @@ export default function App() {
       color: "white",
       fontSize: 24
     }}>
-      App is working (default export found) ✅
+      ✅ Vercel can import App (default export OK)
     </div>
   );
 }
